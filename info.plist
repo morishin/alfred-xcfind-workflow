@@ -69,7 +69,7 @@
 				<key>runningsubtext</key>
 				<string>Please wait...</string>
 				<key>script</key>
-				<string>python xcfind.py "{query}"</string>
+				<string>/usr/bin/python xcfind.py "{query}"</string>
 				<key>title</key>
 				<string>Find Xcode project with '{query}'</string>
 				<key>type</key>

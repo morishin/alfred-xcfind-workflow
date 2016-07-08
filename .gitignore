@@ -1,3 +1,5 @@
+enum
+workflow
 
 # Created by https://www.gitignore.io/api/osx
 
@@ -26,4 +28,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
